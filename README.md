@@ -1,7 +1,7 @@
 复制自Lean大的源码，备用
 =
 
-[English](https://github.com/coolsnowwolf/lede)
+[原仓库地址](https://github.com/coolsnowwolf/lede)
 
 如何编译自己需要的 OpenWrt 固件
 -
